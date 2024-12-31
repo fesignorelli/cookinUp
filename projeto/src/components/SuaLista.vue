@@ -23,7 +23,7 @@ export default {
     </ul>
 
     <p v-else class="paragrafo lista-vazia">
-      <img src="../assets/imagens-main/imagens-main/images/sem-receitas.png" alt="Ícone de pesquisa">
+      <img src="../assets//imagens-main/imagens-main/images/icones/lista-vazia.svg" alt="Ícone de pesquisa">
       Sua lista está vazia, selecione ingredientes para iniciar.
     </p>
   </section>
